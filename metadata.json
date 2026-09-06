@@ -1,0 +1,6 @@
+{
+  "name": "FF ID Zone",
+  "description": "Native Android Free Fire ID Buy & Sell Zone with Deal Slots, Custom Amount Deals, secure escrow verification workflow, bKash & Nagad payments, Community Marketplace, Manager Chat, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
